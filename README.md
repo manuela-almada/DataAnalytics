@@ -41,23 +41,19 @@ El dataset utilizado es ficticio y generado por mí
 
 ## Estructura del repositorio
 
-> Ejemplo de estructura. Ajustala a los nombres reales de tus carpetas y archivos.
-
-
 DataAnalytics/
 ├── README.md
 ├── M6/
-│   ├── Pipeline_ETL_Almada_Manuela.pbix    # Carga de datos y tratamiento de los mismos en Powerbi
+│   ├── Pipeline_ETL_Almada_Manuela.pbix      # Carga de datos y tratamiento de los mismos en Powerbi
 ├── M7/
-│   ├── Mockup RetailPro.pdf  # Boceto inicial del dashboard final
-│   ├── Mock Up RetailPro.png  # Justificaciones del Boceto inicial
+│   ├── Mockup RetailPro.pdf    # Boceto inicial del dashboard final
+│   ├── Mock Up RetailPro.png    # Justificaciones del Boceto inicial
 ├── M8/
-│   ├── Almada_Manuela_ckeckpoint2.pdf # Justificaciones de los Avances del proyecto en Powerbi
-│   ├── Almada_Manuela_ckeckpoint2.pbix # Avances del proyecto en Powerbi
-├── BDD_Ventas_Tech_DB.sql # Creación de la base de datos y las tablas
-├── Consultas SQL de negocio.sql # Consultas simples del negocio mediante sql
-├── m5_consultas_joins.sql #Consultas a la base de datos utilizando joins
-
+│   ├── Almada_Manuela_ckeckpoint2.pdf     # Justificaciones de los Avances del proyecto en Powerbi
+│   ├── Almada_Manuela_ckeckpoint2.pbix     # Avances del proyecto en Powerbi
+├── BDD_Ventas_Tech_DB.sql      # Creación de la base de datos y las tablas
+├── Consultas SQL de negocio.sql     # Consultas simples del negocio mediante sql
+├── m5_consultas_joins.sql     #Consultas a la base de datos utilizando joins
 
 ## Modelo de datos
 
