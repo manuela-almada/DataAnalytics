@@ -59,11 +59,7 @@ DataAnalytics/
 ├── m5_consultas_joins.sql #Consultas a la base de datos utilizando joins
 
 
-
-
-## 🗂️ Modelo de datos
-
-`[Describí brevemente las tablas principales y cómo se relacionan. Por ejemplo:]`
+## Modelo de datos
 
 | Tabla | Descripción |
 |---|---|
@@ -73,7 +69,7 @@ DataAnalytics/
 | [detalle_ventas] | [Productos y cantidades por venta] |
 
 
-## ▶️ Cómo ejecutar los scripts SQL
+## Cómo ejecutar los scripts SQL
 
 ### 1. Requisitos previos
 
@@ -81,7 +77,7 @@ DataAnalytics/
 - Tener un cliente SQL (por ejemplo, [MySQL Workbench / DBeaver / pgAdmin / SSMS]) o acceso a la terminal.
 - Tener [Git](https://git-scm.com/) instalado para clonar el repositorio.
 
-### 2. Clonar el repositorio (como alternativa descargar los archivos necesarios)
+### 2. Clonar el repositorio (como alternativa descargar los archivos necesarios y ejecutarlos como se indica a continuación)
 
 
 git clone https://github.com/manuela-almada/DataAnalytics.git
@@ -99,7 +95,6 @@ Los scripts están numerados y **deben ejecutarse en ese orden**, ya que cada un
 | 3 | m5_consultas_joins.sql| Realiza consultas sql con el comando join para visualizar su uso |
 
 
-`[Ajustá los nombres a los de tus archivos reales.]`
 
 #### Opción A: desde un cliente gráfico
 
