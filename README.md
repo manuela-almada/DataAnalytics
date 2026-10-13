@@ -4,7 +4,7 @@ Proyecto de análisis de datos orientado a un negocio de retail. A partir de una
 
 ---
 
-## 📋 Tabla de contenidos
+## Tabla de contenidos
 
 - [Descripción del proyecto](#-descripción-del-proyecto)
 - [Objetivos](#-objetivos)
@@ -18,7 +18,7 @@ Proyecto de análisis de datos orientado a un negocio de retail. A partir de una
 
 ---
 
-## 📖 Descripción del proyecto
+## Descripción del proyecto
 
 **RetailPro** es  una empresa distribuidora de tecnología. El proyecto cubre el recorrido típico de un análisis con SQL, y tiene como objetivo construir el sistema de análisis completo, desde la base de datos hasta el dashboard ejecutivo:
 
@@ -137,7 +137,7 @@ SELECT COUNT(*) FROM ventas;
 ```
 
 
-## ❓ Preguntas de negocio que responde el proyecto
+## Preguntas de negocio que responde el proyecto
 
 
 - ¿Cuáles son los productos más vendidos?
