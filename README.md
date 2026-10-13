@@ -35,7 +35,7 @@ El dataset utilizado es ficticio y generado por mí
 | Herramienta | Uso en el proyecto |
 |---|---|
 | **SQL** | Creación de tablas, limpieza de datos y consultas analíticas |
-| **`[Motor de base de datos:SQL Server** | Motor donde se ejecutan los scripts |
+| **[Motor de base de datos:SQL Server** | Motor donde se ejecutan los scripts |
 | **Git y GitHub** | Control de versiones y publicación del proyecto |
 | **Powerbi** | Visualización y análisis complementario|
 
